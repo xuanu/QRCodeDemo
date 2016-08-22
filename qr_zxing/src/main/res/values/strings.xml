@@ -1,0 +1,4 @@
+<resources>
+    <string name="qr_zxing_capture_camera_failed">相机打开出错</string>
+    <string name="qr_zxing_invalid_qr_code">无效的二维码</string>
+</resources>
